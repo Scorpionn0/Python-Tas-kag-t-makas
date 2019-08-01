@@ -1,3 +1,4 @@
+#Enes Kasapoğlu. http://eneskasapoglu.ml/
 import random 
 try:
     
